@@ -9,8 +9,8 @@ public class ShardedsagawalletApplication {
 	public static void main(String[] args) {
 
 		int x=10;
+		//bug 130
 		int y=20;
-
 		System.out.println("start");
 		SpringApplication.run(ShardedsagawalletApplication.class, args);
 		System.out.println("end");
