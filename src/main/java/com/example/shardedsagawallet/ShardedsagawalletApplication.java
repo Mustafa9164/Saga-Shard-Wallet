@@ -9,6 +9,7 @@ public class ShardedsagawalletApplication {
 	public static void main(String[] args) {
 
 		int x=10;
+		int y=20;
 
 		System.out.println("start");
 		SpringApplication.run(ShardedsagawalletApplication.class, args);
